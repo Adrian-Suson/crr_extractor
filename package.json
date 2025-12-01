@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://adriansuson.github.io/my-react-app/",
+  "homepage": "https://adriansuson.github.io/crr_extractor/",
   "scripts": {
     "dev": "vite",
     "lint": "eslint .",
